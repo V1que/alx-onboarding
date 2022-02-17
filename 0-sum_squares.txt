@@ -1,0 +1,7 @@
+This is an algorithm to calculate the sum of squares of given input of numbers
+where n is a set of natural numbers
+Input(n) =0
+Output= Input(sum of squares of numbers)
+Output=Input(n1^2 +n2^2)
+Return Output
+End
