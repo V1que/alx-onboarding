@@ -1,0 +1,10 @@
+This is an algorithm that reads in three numbers and writes them all in sorted order
+1. Start
+2. Read in three numbers from user (n1, n2, n3)
+3. if n1<n2 then goto step 4 else go to step 8
+4. if n1<n3 goto step 5 else go to step 7
+5. if n2<n3 then goto step 9 else goto step 6
+6. interchange n2 and n3 and goto step 9
+7. interchange n1 and n3 and goto step 3
+8. interchange n1 and n2 and goto step 3
+9. return print (n1, n2 ,n3 )
